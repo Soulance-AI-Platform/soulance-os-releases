@@ -9,7 +9,7 @@
 # Права root не нужны: всё ставится в домашнюю папку.
 set -eu
 
-REPO="Andrew-Jahn/soulance-os-releases"
+REPO="Soulance-AI-Platform/soulance-os-releases"
 NAME="Soulance OS"
 BIN="soulanceapp"
 

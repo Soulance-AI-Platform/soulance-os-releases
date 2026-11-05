@@ -7,7 +7,7 @@
 **macOS**
 
 ```
-brew tap Andrew-Jahn/tap
+brew tap Soulance-AI-Platform/tap
 brew install --cask --no-quarantine soulance-os
 ```
 
